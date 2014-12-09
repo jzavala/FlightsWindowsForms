@@ -1,0 +1,9 @@
+C:\Users\Casavir\Documents\Visual Studio 2013\Projects\FlightsWindowsForms\FlightsWindowsForms\bin\Debug\FlightsWindowsForms.exe.config
+C:\Users\Casavir\Documents\Visual Studio 2013\Projects\FlightsWindowsForms\FlightsWindowsForms\bin\Debug\FlightsWindowsForms.exe
+C:\Users\Casavir\Documents\Visual Studio 2013\Projects\FlightsWindowsForms\FlightsWindowsForms\bin\Debug\FlightsWindowsForms.pdb
+C:\Users\Casavir\Documents\Visual Studio 2013\Projects\FlightsWindowsForms\FlightsWindowsForms\obj\Debug\FlightsWindowsForms.Form1.resources
+C:\Users\Casavir\Documents\Visual Studio 2013\Projects\FlightsWindowsForms\FlightsWindowsForms\obj\Debug\FlightsWindowsForms.Properties.Resources.resources
+C:\Users\Casavir\Documents\Visual Studio 2013\Projects\FlightsWindowsForms\FlightsWindowsForms\obj\Debug\FlightsWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Casavir\Documents\Visual Studio 2013\Projects\FlightsWindowsForms\FlightsWindowsForms\obj\Debug\FlightsWindowsForms.exe
+C:\Users\Casavir\Documents\Visual Studio 2013\Projects\FlightsWindowsForms\FlightsWindowsForms\obj\Debug\FlightsWindowsForms.pdb
+C:\Users\Casavir\Documents\Visual Studio 2013\Projects\FlightsWindowsForms\FlightsWindowsForms\obj\Debug\FlightsWindowsForms.csprojResolveAssemblyReference.cache
